@@ -1,2 +1,2 @@
 # PriorityQueue
-Self implemented priority queue in C++
+Self implemented priority queue in C
